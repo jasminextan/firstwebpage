@@ -1,0 +1,125 @@
+
+/* all pages */
+    a{
+        text-decoration-line: underline;
+        color: #EAE1DF
+
+    }
+/* page one */
+/* section 1 */
+    h1{
+        /* jasminextan */
+        position: absolute;
+        width: 122px;
+        height: 36px;
+        left: 4.16%;
+        top: 34px;
+
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #EAE1DF;
+    }
+
+    p1{
+        /* first webpage */
+        position: absolute;
+        width: 287px;
+        height: 51px;
+        left: 12.66%;
+        top: 245px;
+
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 61px;
+        text-align: center;
+        color: #EAE1DF;
+
+    }
+    p2{
+        /* my professor */
+        position:absolute;
+        width: 129px;
+        height:24px;
+        left: 56.48%;
+        top: 305px;
+
+        font-weight: 700;
+        font-size:20px;
+        line-height:24px;
+        display:flex;
+        align-items: center;
+        text-align: center;
+        color: #EAE1DF
+    }
+    p3{
+        /* his course */
+        position:absolute;
+        width: 129px;
+        height:24px;
+        left: 56.48%;
+        top: 471px;
+
+        font-weight: 700;
+        font-size:20px;
+        line-height:24px;
+        display:flex;
+        align-items: center;
+        text-align: center;
+        color: #EAE1DF
+    }
+
+    p4{
+        /* wormy apple */
+        position: absolute;
+        left: 58.98%;
+        top: 368px;
+    }
+    .rect1{
+        position: absolute;
+        width: 50%;
+        height: 540px;
+        left: 0%;
+        top: 0px;
+        background-color: #667761;
+        z-index: -1;
+    }
+    .rect2{
+        position: absolute;
+        width: 25%;
+        height: 270px;
+        left: 50%;
+        top: 0px;
+        background-color: #B79492;
+        z-index: -1;
+    }
+    .rect3{
+        position: absolute;
+        width: 25%;
+        height: 270px;
+        left: 75%;
+        top: 0px;
+        background-color: #667761;
+        z-index: -1;
+    }
+    .rect4{
+        position: absolute;
+        width: 25%;
+        height: 270px;
+        left: 50%;
+        top: 270px;
+        background-color: #545E56;
+        z-index: -1;
+    }
+    .rect5{
+        position: absolute;
+        width: 25%;
+        height: 270px;
+        left: 75%;
+        top: 270px;
+        background-color: #917c78;
+        z-index: -1;
+    }
