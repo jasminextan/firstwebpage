@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <!--style / css are synonyms, css is cascading style sheets-->
+        <style>
+            /* css code, not html */
+            h1 {
+                color:blueviolet;
+                text-align:center;
+            }
+            /* a . means it is looking for a class */
+            .beef {
+                background:pink;
+            }
+            .pork {
+                color:red;
+            }
+            .chicken{
+                background:lightblue;
+            }
+            body{
+                /* background affects padding, but not margin */
+                margin:0px;
+            }
+            li:hover{
+                background: red;
+            }
+            li{
+                background: gray;
+                display:inline-block;
+                width:20%;
+            }
+        </style>
+    </head>
+    <body>   
+        <!--html is for content, not formatting-->
+        <!-- h is for header -->
+        <h1>
+            my books webpage
+        </h1>
+        <!--ol is for ordered list, ul is for unordered-->
+        <div class=chicken>
+            <ol>
+                <!--li is for list item-->
+                <li>where the red fern grows</li>
+                <li class = beef>to kill a mockingbird</li>
+                <li class = "beef pork">crime and punishment</li>
+                <li class = pork>harry potter</li>
+            </ol>
+        </div>
+
+        <ul class = beef>
+            <a href="google.html"> 
+                <li>where the red fern grows</li>
+            </a>
+            <li>to kill a mockingbird</li>
+            <li>crime and punishment</li>
+            <li>harry potter</li>
+        </ul>
+        <!--2 special tags w/o formatting: div, span-->
+        <!--whole point of these tags is to help establish css-->
+        <p>
+            this is a <span class= beef>paragraph</span> about books
+        </p>
+        <!--block elements (div) are like paragraph
+        inline elements (span) go inside of the paragraph-->
+    </body>
+</html>
