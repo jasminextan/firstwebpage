@@ -204,4 +204,119 @@
             width: 1000px;
             z-index: -1;
         }
-            
+    /* section three */
+        #rect8{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 0%;
+            top: 1080px;
+            z-index: -1;
+        }
+        #rect9{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 25%;
+            top: 1080px;
+            z-index: -1;
+        }
+        #rect10{
+            position: absolute;
+            width: 50%;
+            height: 270px;
+            left: 0%;
+            top: 1350px;
+            z-index: -1;
+        }
+        #rect11{
+            position: absolute;
+            width: 50%;
+            height: 540px;
+            left: 50%;
+            top: 1080px;
+            z-index: -1;
+        }
+        #hummingbird{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 30px;
+            width: 200px;
+        }
+        #skullflower{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 95px;
+            width: 75px;
+        }
+        #backgroundtext{
+            margin-left:130px; 
+            margin-right: 130px;
+            margin-top: 75px;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #yinyang{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            margin-bottom: 50px;
+            width: 75px;
+        }
+        #tierlists{
+            width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        th{
+            font-weight: 700;
+            font-size: 42px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        td{
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+    /* section 4 */
+        #rect12{
+            position: absolute;
+            width: 100%;
+            height: 540px;
+            left: 0%;
+            top: 1620px;
+            z-index: -1;
+        }
+        h3{
+            margin:0px; 
+            margin-top: 150px;
+            font-weight: 700;
+            font-size: 42px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #contactme{
+            margin-left:150px; 
+            margin-right: 150px;
+            margin-top: 20px;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #bottombits{
+            margin-left:150px; 
+            margin-right: 150px;
+            margin-top: 120px;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
