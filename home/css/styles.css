@@ -360,3 +360,22 @@
             text-align: center;
             color: #EAE1DF;
         }
+
+/* page three */
+        #graphite{
+            margin:0px; 
+            margin-top: 130px;
+            font-weight: 700;
+            font-size: 42px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #graphicdesigntext{
+            margin-left: 15%; 
+            margin-right: 15%;
+            margin-top: 75px;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
