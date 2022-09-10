@@ -1,6 +1,207 @@
 /* all pages */
-a{
-    text-decoration-line: underline;
-    color: #EAE1DF
+    a{
+        text-decoration-line: underline;
+        color: #EAE1DF
+    }
+    a:hover{
+        color: white
+    }
+    .lightgreen{
+        background-color: #667761;
+    }
+    .darkgreen{
+        background-color: #545E56;
+    }
+    .lightpink{
+        background-color: #B79492;
+    }
+    .darkpink{
+        background-color: #917c78;
+    }
+    #jasminextan{
+        /* jasminextan */
+        position: absolute;
+        width: 122px;
+        height: 36px;
+        left: 4.16%;
+        top: 34px;
 
-}
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #EAE1DF;
+    }
+    #menu{
+        /* menu */
+        position: absolute;
+        left: 4.16%;
+        top: 55px;
+
+        font-weight: 700;
+        font-size: 20px;
+        color: #EAE1DF;
+    }
+
+/* page one */
+    /* section 1 */
+        #rect1{
+            position: absolute;
+            width: 50%;
+            height: 540px;
+            left: 0%;
+            top: 0px;
+            z-index: -1;
+        }
+        #rect2{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 50%;
+            top: 0px;
+            z-index: -1;
+        }
+        #rect3{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 75%;
+            top: 0px;
+            z-index: -1;
+        }
+        #rect4{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 50%;
+            top: 270px;
+            z-index: -1;
+        }
+        #rect5{
+            position: absolute;
+            width: 25%;
+            height: 270px;
+            left: 75%;
+            top: 270px;
+            z-index: -1;
+        }
+
+        #home{
+            /* home. */
+            margin:0px; 
+            height: 540px;
+            line-height:540px;
+            font-weight: 700;
+            font-size: 42px;
+            text-align: center;
+            color: #EAE1DF;
+
+        }
+
+        #uturns{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 30px;
+            width: 200px;
+        }
+        #eyedoodle{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 95px;
+            width: 75px;
+        }
+        #wormyapple{
+            /* wormy apple */
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 95px;
+            width: 75px;
+        }
+        #greekgod{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 35px;
+            width: 200px;
+        }
+    /* section 2 */
+        #rect6{
+            position: absolute;
+            width: 100%;
+            height: 540px;
+            left: 0%;
+            top: 540px;
+            z-index: 1;
+        }
+        #rect7{
+            position: absolute;
+            width: 100%;
+            height: 540px;
+            left: 0%;
+            top: 540px;
+            z-index: -10;
+        }
+        #welcome{
+            margin:0px; 
+            margin-top: 150px;
+            font-weight: 700;
+            font-size: 42px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #welcometext{
+            margin-left:150px; 
+            margin-right: 150px;
+            margin-top: 20px;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        #proflink{
+            /* my professor */
+            font-weight: 700;
+            font-size:20px;
+            line-height:24px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            color: #EAE1DF
+        }
+        a#proflink{
+            display: block;
+            width: 200px;
+            text-align:center;
+            margin: auto;
+        }
+        
+        #courselink{
+            /* his course */
+            font-weight: 700;
+            font-size:20px;
+            line-height:24px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            color: #EAE1DF
+        }
+        a#courselink{
+            display: block;
+            width: 100px;
+            text-align:center;
+            margin: auto;
+        }
+        #welcomecity{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 560px;
+            width: 1000px;
+            z-index: -1;
+        }
+            
