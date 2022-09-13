@@ -45,17 +45,17 @@
         color: #EAE1DF;
     }
     @media only screen and (max-width: 600px) {
-        th{
-            font-weight: 700;
-            font-size: 30px;
-            text-align: center;
-            color: #EAE1DF;
+        .lightgreen{
+            background-color: #545E56;
         }
-        td{
-            font-size: 15px;
-            line-height: 24px;
-            text-align: center;
-            color: #EAE1DF;
+        .darkgreen{
+            background-color:#667761;
+        }
+        .lightpink{
+            background-color: #917c78;
+        }
+        .darkpink{
+            background-color: #B79492;
         }
       }
 
