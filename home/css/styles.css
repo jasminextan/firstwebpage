@@ -44,6 +44,20 @@
         font-size: 20px;
         color: #EAE1DF;
     }
+    @media only screen and (max-width: 600px) {
+        th{
+            font-weight: 700;
+            font-size: 30px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+        td{
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+            color: #EAE1DF;
+        }
+      }
 
 /* page one */
     /* section 1 */
